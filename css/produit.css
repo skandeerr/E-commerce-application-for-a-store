@@ -1,0 +1,80 @@
+.titre{
+    padding: 3px;
+    color: #0a07b8;
+    margin-top: 20px;
+}
+.prix{
+
+    font-size: 30px;
+    font-weight: 600;
+    padding: 3px;
+    border: none;
+    color: #F60;
+    margin-left: 20px;
+}
+.desc{
+    padding: 3px;
+    font-size: 1.4rem;
+    margin-top: 15px;
+}
+label{
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0 0 5px;
+    color: #232323;
+    text-align: right;
+}
+.cat{
+    color: #404040;
+    font-size: 12px;
+}
+.categorie{
+    margin-left: 20px;
+    padding: 3px;
+    margin-top: 15px;
+
+}
+.control-label{
+    float: left;
+    line-height: 35px;
+    margin-bottom: 5px;
+    margin-right: 12px;
+    min-width: 65px;
+    width: auto;
+    font-size: 18px;
+    color: #111111;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+}
+.quan{
+    z-index: 0;
+    width: 3rem !important;
+    height: 35px;
+    color: #212121 !important;
+    font-size: 18px;
+    text-align: center;
+    padding: 0.175rem 0.5rem;
+    border: 1px solid #ebebeb !important;
+    background-color: #ffffff !important;
+}
+.bouton{
+    border-radius: 40px;
+    border: none;
+    background-color: #0090E3 !important;
+    color: #fff !important;
+    margin: 0 auto;
+    display: block;
+    height: 2.75rem;
+    line-height: inherit;
+}
+form{
+    margin-left: 18px;
+    padding: 3px;
+    margin-top: 15px;
+}
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

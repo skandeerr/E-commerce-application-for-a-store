@@ -1,0 +1,32 @@
+.titre {
+    font-family: Roboto,sans-serif;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .02em;
+    display: block;
+    text-align: center;
+    background-color: #f7f7f7;
+
+}
+.sp{
+    font-family: Roboto,sans-serif;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .02em;
+    display: block;
+    text-align: center;
+    color: #ed1c3b;
+    
+}
+
+.aff{
+    font-family: Roboto,sans-serif;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .02em;
+    display: block;
+    text-align: center;
+}
+.mr{
+ margin-left: 5px;   
+}
